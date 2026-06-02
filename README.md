@@ -1,1 +1,2 @@
 # Java-Value-Evaluator
+I quickly made this in Java to test myself. The main program (App) takes user input of two float values, and then uses the other two methods in the program to evaluate them. The methods themselves use an instance object from the other class, "Integers", which has a few methods in it (some of which aren't used). They use these methods to add, multiply and divide the two values and then add them into a list which is used a parameter for the next method, which finds the average of the values.
